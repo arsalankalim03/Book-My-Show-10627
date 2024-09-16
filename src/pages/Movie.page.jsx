@@ -7,6 +7,7 @@ import { FaCcVisa, FaCcApplePay } from "react-icons/fa";
 import { MovieContext } from "../Context/Movie.context";
 import PosterSlider from "../Components/PosterSlider/PosterSlider.component";
 import Cast from "../Components/Cast/Cast.component";
+import MovieHero from "../Components/MovieHero/MovieHero.component";
 
 
 
@@ -209,8 +210,8 @@ const Moviepage = () => {
                 {/* recommended movies slider */}
                 <PosterSlider
                     config={settings}
-                    title="BMS XCLUSICE"
-                    posters={recommendedMovies}
+                    title="BMS EXCLUSIVE"
+                    posters={similarMovies}
                     isDark={false}
                 />
             </div>
