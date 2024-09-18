@@ -1,3 +1,6 @@
+# Pro Tip
+If the website doesn't load, Please use a VPN
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
